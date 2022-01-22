@@ -8,7 +8,7 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md,scss,css,yml,html,php}\""
   },
   "author": "",
-  "license": "Apache-2.0",
+  "license": "AGPL",
   "dependencies": {
     "es6-weakmap": "^0.0.1",
     "flickity": "^2.0.10",
